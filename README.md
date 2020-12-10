@@ -1,8 +1,8 @@
-Welcome to Globien Project！
+Welcome to gmhl Project!
 
-格罗比言·全球语 (Globien) 是新一代人造国际语。她传承世界语 (Esperanto) 精神，融合中、英、法三大语言，更加简单易学，是更有效的国际沟通桥梁。
+我是一名喜欢计算机的业余人士
 
-格罗比言官网 (https://globien.github.io) 由本项目支撑。
+gmhl官网 (https://gmhl000.github.io) 由本项目支撑。
 
 ### 您可以 ——
 
